@@ -1,1 +1,1 @@
-web: gunicorn api_leankit.wsgi
+web: gunicorn leankit.wsgi
