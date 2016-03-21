@@ -8,6 +8,7 @@ pyasn1==0.1.9
 python-memcached==1.57
 requests==0.12.1
 rsa==3.3
+setuptools==0.7.3
 simplejson==3.8.2
 six==1.10.0
 wheel==0.24.0
